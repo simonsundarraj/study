@@ -1,9 +1,0 @@
-// calculator program
-
-// Calculator to add 
-
-public int add(int a , int b){
-	String a,b;
-	return a+b;
-
-}
