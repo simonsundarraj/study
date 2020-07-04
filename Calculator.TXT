@@ -7,10 +7,3 @@ public int add(int a , int b){
 	return a+b;
 
 }
-
-// calculator method to subtract
-
-public int sub(int a , int b){
-	
-	return a-b;
-}
